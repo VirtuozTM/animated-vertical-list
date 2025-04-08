@@ -1,7 +1,7 @@
 # 🍃 Animated Vertical List
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/1d63585f-2381-494c-a5f7-728496df7293"/>
+  <video src="https://github.com/user-attachments/assets/81ce19a5-c124-4787-b235-81349d59a3b2"/>
 </p>
 
 ## 📌 Objectif
